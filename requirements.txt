@@ -5,4 +5,4 @@ seaborn== 0.13.2
 scikit-learn
 matplotlib== 3.9.2
 streamlit== 1.37.0 
-jobli
+joblib==1.4.2
